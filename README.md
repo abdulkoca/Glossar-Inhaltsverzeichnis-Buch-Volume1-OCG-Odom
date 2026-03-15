@@ -21,11 +21,14 @@ BPQU
  
 BPDU Guard (Bridge Protocol Data Unit Guard) deaktiviert Ports sofort bei unerwarteten STP-BPDUs. Schützt vor Rogue-Switches auf Access-Ports.
 
-EtherChannel: 
+EtherChannel
+
 Bundelt 2-8 physische Links zu einem logischen Kanal für Redundanz und höhere Bandbreite. Verhandelt via LACP (Standard) oder PAgP (Cisco).
 
-SVI: 
+SVI
+
 Switched Virtual Interface (z.B. „interface vlan 10“) ist eine virtuelle L3-Schnittstelle für Inter-VLAN-Routing auf Layer-3-Switches. Erhält IP pro VLAN.
 
-SLAAC: 
+SLAAC
+
 Stateless Address Autoconfiguration vergibt IPv6-Adressen automatisch via Router Advertisements. Host kombiniert Netzwerkprefix mit eigener Interface-ID (EUI-64).
