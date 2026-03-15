@@ -3,6 +3,8 @@
 
 Buch Volume 1:
 
+-
+
 ISL VLAN
 
 Inter-Switch Link (ISL) ist ein Cisco-proprietäres Trunking-Protokoll für VLAN-Traffic über Switch-Links. Es kapselt Frames vollständig und wurde durch den Standard 802.1Q ersetzt.
